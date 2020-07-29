@@ -1,5 +1,5 @@
 # Domoticz_iConic
-Work-around to add custom icons to Domoticz when the gui for icons isn't working
+Work-around to add custom icons to Domoticz when the gui for icons isn't working for MacOS or Linux clients, and you don't have acces to a windows client.
 
 Without any support or guarantees.
 
