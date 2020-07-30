@@ -58,7 +58,7 @@ class BasePlugin:
 #	def onCommand(self, Unit, Command, Level, Hue):
 		
 	def onStop(self):
-		Domoticz.Satus('IConic stopped')
+		Domoticz.Status('IConic stopped')
 
 global _plugin
 _plugin = BasePlugin()
